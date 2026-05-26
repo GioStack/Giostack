@@ -1,11 +1,11 @@
-# Hi there! 👋 I'm Giorgos
+# Hi there! I'm Giorgos
 
 I am an **Informatics & Telecommunications Engineer** passionate about building efficient, clean, and functional applications. I love solving algorithmic problems and bridging the gap between Backend and Frontend.
 
 ### 🛠️ What I'm working on:
-- 🌍 Developing RESTful APIs and backend architectures using **Python & FastAPI**.
-- 📱 Building cross-platform mobile experiences with **Dart & Flutter**.
-- 🗄️ Designing and optimizing databases (PostgreSQL).
+- Developing RESTful APIs and backend architectures using **Python & FastAPI**.
+- Building cross-platform mobile experiences with **Dart & Flutter**.
+- Designing and optimizing databases (PostgreSQL).
 
 ### 🧰 Tech Stack & Tools:
 - **Languages:** Python, Java, Dart, SQL
