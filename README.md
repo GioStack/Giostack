@@ -1,4 +1,4 @@
-# Hi there! I'm Giorgos
+# Hi there !👋 I'm Giorgos
 
 I am an **Informatics & Telecommunications Engineer** passionate about building efficient, clean, and functional applications. I love solving algorithmic problems and bridging the gap between Backend and Frontend.
 
