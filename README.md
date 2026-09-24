@@ -7,7 +7,7 @@ I build reliable backend services and practical mobile experiences. At Medtrans,
 ## Selected projects
 
 - **Medtrans (Startup)** : Building an AI-assisted medical translation platform with a Flutter mobile app and Python/FastAPI backend. My work spans backend APIs, speech and translation workflows, and mobile integration.
-- **[Alumni Platform — Diploma Thesis](https://github.com/GioStack/alumni-platform-thesis-case-study)** : Designed and delivered a university alumni community with profiles, events, messaging, and a job board. The [live platform](https://alumni.ece.uowm.gr) is hosted by the university. Thesis grade: **10/10**.
+- **[Alumni Platform (Diploma Thesis)](https://github.com/GioStack/alumni-platform-thesis-case-study)** : Designed and delivered a university alumni community with profiles, events, messaging, and a job board. The [live platform](https://alumni.ece.uowm.gr) is hosted by the university. Thesis grade: **10/10**.
 
 ## Technical focus
 
