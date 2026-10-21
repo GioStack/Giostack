@@ -8,10 +8,11 @@ I build reliable backend services and practical mobile experiences. At Medtrans,
 
 - **Medtrans (Startup)** : Building an AI-assisted medical translation platform with a Flutter mobile app and Python/FastAPI backend. My work spans backend APIs, speech and translation workflows, and mobile integration.
 - **[Alumni Platform (Diploma Thesis)](https://github.com/GioStack/alumni-platform-thesis-case-study)** : Designed and delivered a university alumni community with profiles, events, messaging, and a job board. The [live platform](https://alumni.ece.uowm.gr) is hosted by the university. Thesis grade: **10/10**.
+- **[Career Copilot (Open source, in progress)](https://github.com/GioStack/career-copilot)** : A local-first app that stores your career data once and turns it into tailored CVs with LLMs. The backend is built with FastAPI, SQLAlchemy and Pydantic, developed test-first with pytest, and every technical decision is documented as an ADR.
 
 ## Technical focus
 
-**Backend:** Python, FastAPI, Java, Spring Boot, REST APIs, PostgreSQL, SQL  
+**Backend:** Python, FastAPI, Java, Spring Boot, REST APIs, PostgreSQL, SQLite, SQL  
 **Mobile:** Dart, Flutter  
 **Tools:** Git, Docker, OpenAPI / Swagger
 
