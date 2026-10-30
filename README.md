@@ -2,7 +2,7 @@
 
 **Backend Engineer | Python, FastAPI, PostgreSQL**
 
-I'm a Founding Engineer at Medtrans, an early-stage startup building AI-powered speech translation between clinicians and patients in 40+ languages. I build the Python/FastAPI backend: speech-to-text and LLM translation pipelines, live language detection over WebSockets, translation quality checks and GDPR data retention. I cut end-to-end response time from ~9 s to ~6 s, and our work has been demoed to hospital groups and LMU Munich.
+I'm a Founding Engineer at Medtrans, an early-stage startup building AI-powered speech translation between clinicians and patients in 40+ languages. I build the Python/FastAPI backend: speech-to-text and LLM translation pipelines, live language detection over WebSockets, translation quality checks and GDPR data retention. Our work has been demoed to hospital groups and LMU Munich.
 
 I hold a Diploma in Informatics and Telecommunications Engineering from the University of Western Macedonia.
 
