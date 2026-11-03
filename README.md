@@ -1,23 +1,16 @@
 # Georgios Georgiadis
 
-**Backend Engineer | Python, FastAPI, PostgreSQL**
-
 I'm a Founding Engineer at Medtrans, an early-stage startup building AI-powered speech translation between clinicians and patients in 40+ languages. I build the Python/FastAPI backend: speech-to-text and LLM translation pipelines, live language detection over WebSockets, translation quality checks and GDPR data retention. Our work has been demoed to hospital groups and LMU Munich.
 
-I hold a Diploma in Informatics and Telecommunications Engineering from the University of Western Macedonia.
+On the side, I'm building [Career Copilot](https://github.com/GioStack/career-copilot): you save your career info once, and it helps you tailor your CV, summary and cover letter for each job you apply to.
 
-## Selected projects
+## Projects
 
-- **[Career Copilot (Open source, in progress)](https://github.com/GioStack/career-copilot)**: Job seekers rewrite the same experience for every CV, LinkedIn update and job application. Career Copilot is a local-first app that stores career data once and will use your own LLM API key to tailor CVs, LinkedIn content and mock interviews. Built with FastAPI, SQLAlchemy and Pydantic, tested with pytest and GitHub Actions CI, with every technical decision documented as an ADR.
-- **[University Alumni Platform (Diploma Thesis)](https://github.com/GioStack/alumni-platform-thesis-case-study)**: The department's alumni website lacked the features it needed, so I designed a replacement with profiles, groups, chat, events and a job board. The [live platform](https://alumni.ece.uowm.gr) runs on the university's servers, has been pitched to the department and is ready for rollout. Thesis grade: **10/10**.
+**[Career Copilot](LINK)** &nbsp; ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)  
+Runs locally with your own LLM key. The API for profile, skills and work experience is done, with 50+ tests and CI. The tailoring engine comes next.
 
-## Technical focus
-
-**Languages:** Python, SQL, PHP, Dart  
-**Frameworks:** FastAPI (REST, WebSockets), Pydantic, SQLAlchemy, Flutter, WordPress  
-**Databases:** PostgreSQL, MySQL, SQLite  
-**AI:** OpenAI API, Whisper (speech-to-text), Google Text-to-Speech, LLM integration  
-**Tools:** Git, GitHub Actions, Docker, pytest, Alembic, Postman, Swagger
+**[Alumni Platform](LINK)** &nbsp; ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)  
+My diploma thesis (10/10): a social network for my department's graduates. [Live](LINK) on the university's servers.
 
 ## Connect
 
